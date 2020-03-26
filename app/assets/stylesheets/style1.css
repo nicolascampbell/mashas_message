@@ -1,0 +1,14 @@
+#entries{
+    display: inline-grid;
+    background-color: rgb(240, 197, 119);
+    align-items: center;
+}
+body {
+    background-color: rgb(253, 173, 0);
+
+    font-style: italic;
+}
+#header{
+    position: relative;
+    text-align: center;
+}
